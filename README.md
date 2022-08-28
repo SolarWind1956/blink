@@ -11,3 +11,5 @@ This repository has an example file to blink the LED on an Arduino board.
 	-	лицензия, по которой доступен этот проект;
 	
 	-	способ внести в него вклад.
+	
+master 28-08-22 19:45
