@@ -13,3 +13,6 @@ This repository has an example file to blink the LED on an Arduino board.
 	-	способ внести в него вклад.
 	
 master 28-08-22 19:45
+
+На GitHub 28-08-22 20^00
+
